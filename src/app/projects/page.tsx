@@ -15,8 +15,8 @@ const PROJECTS = [
       { name: "Tailwind CSS", color: "#38bdf8" },
       { name: "EmailJS", color: "#ff6b6b" },
     ],
-    liveUrl: "https://nidhikumari-dev.vercel.app",
-    repoUrl: "https://github.com/Nidhikumari-4/portfolio",
+    liveUrl: "https://githubb-portfolio.vercel.app/",
+    repoUrl: "https://github.com/Nidhikumari-4/Github-Portfolio",
     image: "/portfolio.one.png",
   },
   {
