@@ -54,7 +54,7 @@ export default function ProfileSidebar() {
 
       {/* Resume button */}
       <a
-        href="https://drive.google.com/file/d/1KRVqq8t7-v_IAMgkCh8ob1cG3fR5FMTF/view"
+        href="https://drive.google.com/file/d/1K7-3hk8Fzxph2Os-5I7S5yHM122Oam61/view"
         target="_blank"
         className="w-full mb-5 px-4 py-[7px] text-sm font-semibold text-gh-text-bright bg-gh-btn border border-gh-border rounded-lg hover:bg-gh-btn-hover hover:border-gh-text-muted/30 transition-all text-center block"
       >

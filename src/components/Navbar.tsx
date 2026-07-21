@@ -9,7 +9,6 @@ import { Sun, Moon, Monitor, Menu, X } from "lucide-react";
 const TABS = [
   { label: "Overview", href: "/" },
   { label: "Experience", href: "/experience" },
-  { label: "Projects", href: "/projects" },
   { label: "Skills", href: "/skills" },
   { label: "Education", href: "/education" },
   { label: "Contact", href: "/contact" },
